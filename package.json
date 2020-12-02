@@ -1,0 +1,12 @@
+{
+  "name": "lambda-container-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Weslley Braga <wesbragagt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "get-stream": "^6.0.0",
+    "pdfkit": "^0.11.0"
+  }
+}
